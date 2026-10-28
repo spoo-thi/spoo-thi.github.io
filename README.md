@@ -19,7 +19,7 @@ No build step, package installation, or backend is required.
 - Update the email and LinkedIn URLs if needed.
 - Add your GitHub profile URL when ready.
 - Add a resume PDF and link it from the hero section if you want a downloadable resume button.
-- Your supplied portrait is used in the hero section (`assets/spoorthi-profile.jpg`). Replace it if you want a different profile photo.
+- Your close-up portrait is used in the hero section (`assets/spoorthi-profile.jpg`), and your full-length photo appears in the About section (`assets/spoorthi-full-photo.jpg`).
 - Replace the illustrative project previews in `assets/` with real screenshots of your own working projects when available.
 - Link project cards to repositories or live demos only after verifying those URLs.
 
